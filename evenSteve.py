@@ -33,7 +33,7 @@
 # Put your Python code here:
 
 for i in range(1,101):
-    if i%2==1:
+    if i%2 == 1:
      print(i)
-    else :
-     print ("Steven")
+    else:
+     print("Steven")
